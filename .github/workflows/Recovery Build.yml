@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_RM6785'
+        default: 'nad_RM6785'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
